@@ -4,6 +4,7 @@
 % voltages through the checkerboard method. Then, one can sum up individual
 % voltage differences across the board and divide that by the individual
 % resistances to find the current.
+% The contest problems are here: https://opho.physoly.tech/static/files/open2024_5.pdf
 
 
 
